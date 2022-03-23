@@ -40,9 +40,7 @@ language) is in `example.z3`
 (exit)
 ```
 
-If you have Z3 installed, you can run this with `z3 example.z3`. You can also
-run Z3 using Microsoft's online sandbox at
-[Rise4Fun](https://rise4fun.com/z3/tutorial).
+If you have Z3 installed, you can run this with `z3 example.z3`.
 
 # Challenge
 
@@ -202,7 +200,6 @@ or equal to that:
 
 # References
 
-- [Z3 online](https://rise4fun.com/Z3)
-- [Z3 Guide](https://rise4fun.com/z3/tutorialcontent/guide#h23)
 - [Python Z3 examples](http://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 - [Python API](http://z3prover.github.io/api/html/namespacez3py.html)
+- [Programming Z3, a guide](http://theory.stanford.edu/~nikolaj/programmingz3.html)
