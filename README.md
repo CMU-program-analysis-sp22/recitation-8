@@ -5,7 +5,7 @@ Set up the Python interface for Z3 using `pip`. I did this on my machine using
 
 If the installation is successful you should be able to run `python3
 example.py`, which solves the constraints `0 < x < 10`, `0 < y < 10`, `x * x + 1
-== y - 2` and computes the result `[y = 7, x = 2]`
+== y - 2` and computes the result `[x = 1, y = 4]`
 
 # Example
 Here are the contents of `example.py`:
